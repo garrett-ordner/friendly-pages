@@ -16,7 +16,8 @@
 title: "[Meeting Name Here]"
 subtitle: '[Quarterly Meeting] | [Yearly Meeting]'
 url: "https://example.com" # the base URL of your site, used for links
-email:
+email: "placeholder@placeholder.com" # your contact email address
+phone: "(555) 123-4567" # your contact phone number
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -27,10 +28,15 @@ search: true
 
 # Look up your meeting location on Google Maps and copy the URL.
 location: "https://www.google.com/maps/place/Your+Meeting+Location"
+
 # Use this setting to specify which social media accounts you want to link to.
 # The links will be displayed in the footer of your site.
+# To remove a link, delete the three lines for that link (label, icon, url).
 footer:
   links:
+    - label: "Facebook"
+      icon: "fab fa-facebook-f"
+      url: "https://www.facebook.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
