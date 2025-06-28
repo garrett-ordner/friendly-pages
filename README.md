@@ -1,5 +1,5 @@
 # Create and deploy your site!
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/garrett-ordner/friendly-pages)
+[![Deploy to Cloudflare Pages](https://button.example.com/deploy-to-cloudflare.svg)](https://dash.cloudflare.com/?to=/pages/new/connect?gh-repo=garrett-ordner/friendly-pages)
 
 # Minimal Mistakes remote theme starter
 

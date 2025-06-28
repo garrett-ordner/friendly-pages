@@ -2,8 +2,7 @@
 name = "my-friendly-pages-site"
 compatibility_date = "2025-06-28"
 
-type = "webpack" # optional, default works
-site = { bucket = "./_site", entry-point = "workers-site" }
+site = { bucket = "./docs" }
 
 [build]
 command = "bundle install && bundle exec jekyll build"
