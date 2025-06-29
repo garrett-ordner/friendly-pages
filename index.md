@@ -17,7 +17,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
-We gather for worship every **Sunday at 11:30 AM** at The Red Shoes on Government St:
 
 
 <!-- Here there be dragons: map styling and embed -->
