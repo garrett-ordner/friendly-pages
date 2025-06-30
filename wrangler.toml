@@ -1,8 +1,0 @@
-# wrangler.toml
-name = "my-friendly-pages-site"
-compatibility_date = "2025-06-28"
-
-site = { bucket = "./docs" }
-
-[build]
-command = "bundle install && bundle exec jekyll build"
