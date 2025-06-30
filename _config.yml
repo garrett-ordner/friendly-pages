@@ -41,7 +41,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/garrettordner/friendly-pages"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -49,6 +49,9 @@ footer:
 # ---------------------DANGER ZONE-----------------------------
 # Don't edit below this line unless you know what you're doing.
 
+#hide RSS link in footer
+atom_feed:
+  hide: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
