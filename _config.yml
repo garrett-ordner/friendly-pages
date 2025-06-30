@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Friendly Pages is a simple, clean, and easy-to-use Jekyll template created with small Quaker meetings in mind, but suitable for any small group or organization. It is based on the Minimal Mistakes theme, which provides a solid foundation for your site.
 
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Look up your meeting location on Google Maps, click "Share", then "Embed a map", and copy the HTML code. Paste it into Notepad or Textedit, then select and copy the URL (after "src=") and paste it here.
 location: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d300538.5791761796!2d-3.051119015348385!3d53.95026000888366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b906d57126361%3A0xce8a03c948ba4a9d!2sPendle%20Hill!5e0!3m2!1sen!2sus!4v1751244389375!5m2!1sen!2sus"
