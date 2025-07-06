@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Friendly Pages" # the title of your site, used in the header and footer
-subtitle: 'The Simple Template'
+subtitle: 'Contrast Skin Preview'
 url: "https://friendlypages.org" # the base URL of your site, used for links
 email: "placeholder@placeholder.com" # your contact email address
 phone: "(555) 123-4567" # your contact phone number
