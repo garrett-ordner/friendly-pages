@@ -21,7 +21,7 @@ phone: "(555) 123-4567" # your contact phone number
 description: >- # this means to ignore newlines until "baseurl:"
   Friendly Pages is a simple, clean, and easy-to-use Jekyll template created with small Quaker meetings in mind, but suitable for any small group or organization. It is based on the Minimal Mistakes theme, which provides a solid foundation for your site.
 
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "mint"
 search: false
 
 # Look up your meeting location on Google Maps, click "Share", then "Embed a map", and copy the HTML code. Paste it into Notepad or Textedit, then select and copy the URL (after "src=") and paste it here.
