@@ -18,6 +18,22 @@ header:
 
 ### The full guide to create your own website with this template can be found [HERE](https://github.com/garrett-ordner/friendly-pages/blob/master/README.md).
 
+### Preview the available skins, including several skins exclusive to the Friendly Pages template:
+
+- [Air](https://air.friendlypages.org)
+- [Aqua](https://aqua.friendlypages.org)
+- [Contrast](https://contrast.friendlypages.org)
+- [Dark](https://dark.friendlypages.org)
+- [Dirt](https://dirt.friendlypages.org)
+- [Mint](https://mint.friendlypages.org)
+- [Neon](https://neon.friendlypages.org)
+- [Plum](https://plum.friendlypages.org)
+- [Sunrise](https://sunrise.friendlypages.org)
+- [Sunset](https://sunset.friendlypages.org) *(Friendly Pages exclusive)*
+- [Regal](https://regal.friendlypages.org) *(Friendly Pages exclusive)*
+- [Sentinel](https://sentinel.friendlypages.org) *(Friendly Pages exclusive)*
+- [Noir](https://noir.friendlypages.org) *(Friendly Pages exclusive)*
+
 The images on this site are in the public domain and were taken from [Wikimedia Commons](https://commons.wikimedia.org).
 
 By default, the map below shows the location of Pendle Hill, where George Fox had the vision that led him to found the Religious Society of Friends (Quakers). Go to _config.yml to change it to the location of your choice.
