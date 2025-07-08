@@ -16,9 +16,9 @@ header:
 [Friendly Pages](https://github.com/garrett-ordner/friendly-pages) is a template designed for small organizations without significant resources or technical expertise. It is heavily inspired by the website I created for the [Baton Rouge Friends Meeting](https://batonrougequakers.org). This template uses the [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) theme by developer Michael Rose. Creating a theme takes a lot more work than creating a simple template, so if you like this template or Minimal Mistakes in general, please consider supporting Michael Rose [with a small donation](https://buymeacoffee.com/mmistakes).
 
 
-## The full guide to create your own website with this template can be found [HERE](https://github.com/garrett-ordner/friendly-pages/blob/master/README.md).
+### The full guide to create your own website with this template can be found [HERE](https://github.com/garrett-ordner/friendly-pages/blob/master/README.md).
 
-## Preview the available skins, including several skins exclusive to the Friendly Pages template:
+### Preview the available skins, including several skins exclusive to the Friendly Pages template:
 
 - [Air](https://air.friendlypages.org)
 - [Aqua](https://aqua.friendlypages.org)
