@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Friendly Pages" # the title of your site, used in the header and footer
-subtitle: 'The Simple Template'
+subtitle: 'Sunset Skin (Friendly Pages Exclusive)'
 url: "https://friendlypages.org" # the base URL of your site, used for links
 email: "placeholder@placeholder.com" # your contact email address
 phone: "(555) 123-4567" # your contact phone number
 description: >- # this means to ignore newlines until "baseurl:"
   Friendly Pages is a simple, clean, and easy-to-use Jekyll template created with small Quaker meetings in mind, but suitable for any small group or organization. It is based on the Minimal Mistakes theme, which provides a solid foundation for your site.
 
-minimal_mistakes_skin: default #"air", "aqua", "contrast", "dark", "dirt", "mint", "neon", "plum", "sunset", "sentinel", "regal", "noir", "sunrise", "jfmsu"
+minimal_mistakes_skin: "sunset" #"air", "aqua", "contrast", "dark", "dirt", "mint", "neon", "plum", "sunset", "sentinel", "regal", "noir", "sunrise", "jfmsu"
 search: false
 
 # Look up your meeting location on Google Maps, click "Share", then "Embed a map", and copy the HTML code. Paste it into Notepad or Textedit, then select and copy the URL (after "src=") and paste it here.
