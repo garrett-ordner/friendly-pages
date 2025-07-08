@@ -26,7 +26,7 @@ Step 2: Launch your website on Netlify
 
 Click the button below. This will create a copy of the website template in your GitHub account and set up hosting on Netlify for you.
 
-[Deploy to Netlify Button]
+ [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/garrett-ordner/friendly-pages)
 
 During this process:
 
