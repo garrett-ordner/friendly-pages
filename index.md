@@ -16,7 +16,23 @@ header:
 [Friendly Pages](https://github.com/garrett-ordner/friendly-pages) is a template designed for small organizations without significant resources or technical expertise. It is heavily inspired by the website I created for the [Baton Rouge Friends Meeting](https://batonrougequakers.org). This template uses the [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) theme by developer Michael Rose. Creating a theme takes a lot more work than creating a simple template, so if you like this template or Minimal Mistakes in general, please consider supporting Michael Rose [with a small donation](https://buymeacoffee.com/mmistakes).
 
 
-### The full guide to create your own website with this template can be found [HERE](https://github.com/garrett-ordner/friendly-pages/blob/master/README.md).
+## The full guide to create your own website with this template can be found [HERE](https://github.com/garrett-ordner/friendly-pages/blob/master/README.md).
+
+## Preview the available skins, including several skins exclusive to the Friendly Pages template:
+
+- [Air](https://air.friendlypages.org)
+- [Aqua](https://aqua.friendlypages.org)
+- [Contrast](https://contrast.friendlypages.org)
+- [Dark](https://dark.friendlypages.org)
+- [Dirt](https://dirt.friendlypages.org)
+- [Mint](https://mint.friendlypages.org)
+- [Neon](https://neon.friendlypages.org)
+- [Plum](https://plum.friendlypages.org)
+- [Sunrise](https://sunrise.friendlypages.org)
+- [Sunset](https://sunset.friendlypages.org) *(Friendly Pages exclusive)*
+- [Regal](https://regal.friendlypages.org) *(Friendly Pages exclusive)*
+- [Sentinel](https://sentinel.friendlypages.org) *(Friendly Pages exclusive)*
+- [Noir](https://noir.friendlypages.org) *(Friendly Pages exclusive)*
 
 The images on this site are in the public domain and were taken from [Wikimedia Commons](https://commons.wikimedia.org).
 

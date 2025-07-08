@@ -51,7 +51,7 @@ Open _config.yml. The comments should guide you through entering information, bu
 
 ### Skin
 
-You can also add a different skin (make sure it's in quotes, not entered like the "default" is). The available skins are "air", "aqua", "contrast", "dark", "dirt, "mint", "neon", "plum", and "sunrise".
+You can also add a different skin (make sure it's in quotes). The available skins are "air", "aqua", "contrast", "dark", "dirt, "mint", "neon", "plum", and "sunrise".
 
 ### Google Maps Location
 
@@ -75,7 +75,7 @@ In your repository, open "index.md". This is your homepage. Remember to click th
 
 For overlay image, the placeholder photo is  "assets/images/pic_home.jpg". Replace "pic_home.jpg" with your image. Be mindful that you include the correct extension (e.g. ".png" or ".jpg") Note that it will be zoomed to fit the large homepage image space.
 
-Below the second "---" is the actual content. Remove everything between this second "---" and line 40, where the comment states "Here there be dragons".  Only delete the rest of the page if you want to get rid of the map. Otherwise, don't touch it at all. Replace the text you deleted with your own text and click "Commit Changes".
+Below the second "---" is the actual content. Remove everything between this second "---" and the comment stating "Here there be dragons".  Only delete the rest of the page after this comment if you want to get rid of the map. Otherwise, don't touch it. Replace the text you deleted with your own text and click "Commit Changes".
 
 ## Sub-step 4: Edit your "About", "Visit Us", and "Contact" pages.
 
