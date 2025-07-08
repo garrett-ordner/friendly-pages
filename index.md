@@ -13,26 +13,10 @@ header:
 
 # Welcome to {{ site.title }}
 
-[Friendly Pages](https://github.com/garrett-ordner/friendly-pages) is a template designed with small organizations without significant resources or technical expertise. It is heavily inspired by the website I created for the [Baton Rouge Friends Meeting](https://batonrougequakers.org). This template uses the [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) by developer Michael Rose. Most of the hard work was done creating the theme, so if you like this template or Minimal Mistakes in general, please consider supporting Michael Rose [with a small donation](https://buymeacoffee.com/mmistakes).
+[Friendly Pages](https://github.com/garrett-ordner/friendly-pages) is a template designed for small organizations without significant resources or technical expertise. It is heavily inspired by the website I created for the [Baton Rouge Friends Meeting](https://batonrougequakers.org). This template uses the [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) theme by developer Michael Rose. Creating a theme takes a lot more work than creating a simple template, so if you like this template or Minimal Mistakes in general, please consider supporting Michael Rose [with a small donation](https://buymeacoffee.com/mmistakes).
 
-While **the full guide to setting up a website with this template is forthcoming**, the template itself is ready to use and can be deployed by anyone with a (free) [Github](https://github.com) account. The full process will be explained in an upcoming update to the README, but it consists of these steps:
 
 ### The full guide to create your own website with this template can be found [HERE](https://github.com/garrett-ordner/friendly-pages/blob/master/README.md).
-
-## Steps to create your own website with Friendly Pages
-
-1. Create your own copy of this template and launch your website through Netlify by clicking the button below:  
-   [![Deploy a Friendly Pages Site to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/garrett-ordner/friendly-pages)  
-   Now your website is live!
-
-2. Purchase a domain name (your website's name; it's what gets typed in the URL bar) from a low-cost provider. I prefer [Cloudflare](https://cloudflare.com) because they sell domain names at cost, make the already-easy process of directing it to your website even easier, and offer some useful features like email routing at no extra cost.
-
-3. On your domain registrar's website (e.g. Cloudflare), configure the domain to point to your website. In [Netlify](https://app.netlify.com), configure your website to use the domain you purchased.
-
-4. Fill in the site's content. You can do this on [GitHub](https://github.com) by navigating to your newly-created copy of the Friendly Pages repository and editing `_config.yml`, `index.md`, and the files in `_pages`. You can do this in your browser; no need to clone anything to your computer or open the terminal at all!
-
-
-That's it!
 
 The images on this site are in the public domain and were taken from [Wikimedia Commons](https://commons.wikimedia.org).
 
