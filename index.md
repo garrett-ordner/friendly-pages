@@ -17,6 +17,8 @@ header:
 
 While **the full guide to setting up a website with this template is forthcoming**, the template itself is ready to use and can be deployed by anyone with a (free) [Github](https://github.com) account. The full process will be explained in an upcoming update to the README, but it consists of these steps:
 
+### The full guide to create your own website with this template can be found [HERE](https://github.com/garrett-ordner/friendly-pages/blob/master/README.md).
+
 ## Steps to create your own website with Friendly Pages
 
 1. Create your own copy of this template and launch your website through Netlify by clicking the button below:  
